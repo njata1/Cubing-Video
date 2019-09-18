@@ -5,6 +5,6 @@
 - Choose Music
 - Get Stock Images 
 - Edit the Docs
-- Made the Script DONE
-- Choose What Way to Solve the cube DONE
-- Make a Github List DONE
+- Made the Script ✔
+- Choose What Way to Solve the cube ✔
+- Make a Github List ✔
